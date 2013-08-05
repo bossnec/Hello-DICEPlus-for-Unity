@@ -1,7 +1,7 @@
 Hello DICE+ for Unity
 ======================
 
-Example showing how to use the Unity wrapper.
+Example showing how to use the Unity wrapper with DICE+.
 
 # Warning
 To make this example work with DICE+ you will need to add the Unity wrapper to this project. You can find the latest version on the developer site, which is at the following URL http://developers.dicepl.us
