@@ -1,0 +1,23 @@
+Thumbs.db
+.DS_Store
+
+Library
+Temp
+
+syntax: glob
+*.userprefs
+*.sln
+*.csproj
+*.pidb
+*.unityproj
+*.apk
+*.orig
+*.orig.meta
+*.suo
+*.DotSettings
+*.obj
+obj
+
+# Removing the DICE+ wrapper
+Plugins
+Editor
